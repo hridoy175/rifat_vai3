@@ -1,0 +1,36 @@
+.rifat_vai{
+    padding: 30px 0;
+}
+
+.office{}
+
+.office_img{
+}
+.btn2{
+    position: absolute;
+    border: none;
+    background: #8CA8F4;
+    color: white;
+    font-weight: bold;
+    margin-top: 14%;
+    margin-left: -15%;
+    
+}
+
+.office_text{
+    padding: 30px 0;
+}
+.office_text p{
+    color: #5D5F60;
+}
+.office_text p:hover{
+    color: black;
+}
+
+.btn{
+    border: 1px solid white;
+    background: #8CA8F4;
+    color: white;
+    font-weight: bold;
+    
+}
